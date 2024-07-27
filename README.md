@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adarsho3
 - 🌱 I’m currently learning: web development, particularly focusing on JavaScript and React.
 - 💞️ I’m looking to collaborate on: open-source projects or coding challenges.
-- 📫 How to reach me: rajadarsh3421 
+- 📫 How to reach me: rajadarsh3421@gmail.com
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I love hiking and have climbed three mountains so far!
 
